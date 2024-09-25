@@ -1,0 +1,29 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+        - pandas
+        - io
+        - requests
+    </py-env>
+</head>
+
+
+<body>
+<h1> testando request</h1>
+<py-script>
+
+    import pandas as pd
+    import requests
+    from io import StringIO
+    link = 'https://github.com/kaiohas/py-treinamento-hashtag/raw/refs/heads/main/powerbi/Contoso%20-%20Lojas.csv'
+    requisicao = requests.get(link)
+    csv_data = StringIO(requisicao.text)
+    df = pd.read_csv(csv_data,sep=';')
+    df
+
+</py-script>
+</body>
+
+</html>
