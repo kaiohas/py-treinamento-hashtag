@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd34dbdc-410a-40a0-87f3-9f1138c6fc49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aula 4 - Python Dev/proj_flask_aula4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula 4 - Python Dev/proj_flask_aula4/templates/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula 5/codigo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 5/codigo.py" afterDir="false" />
-    </list>
+    <list default="true" id="fd34dbdc-410a-40a0-87f3-9f1138c6fc49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mO1O8IKLDRUVW0AtiJEZl8iTXq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pichau/Documents/GitHub/py-treinamento-hashtag/Modulo50"
+    "last_opened_file_path": "C:/Users/Pichau/Documents/GitHub/py-treinamento-hashtag/Modulo50/proj_mod50"
   }
 }]]></component>
   <component name="SharedIndexes">
